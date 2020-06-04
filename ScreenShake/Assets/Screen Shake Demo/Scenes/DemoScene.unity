@@ -377,7 +377,7 @@ GameObject:
   - component: {fileID: 1109383784}
   - component: {fileID: 1109383783}
   m_Layer: 0
-  m_Name: DemoCameraShake - Press J, K and L to demo
+  m_Name: DemoScreenShake - Press J, K and L to demo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
